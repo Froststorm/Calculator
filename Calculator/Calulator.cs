@@ -4,12 +4,12 @@ namespace Calculator
 {
     public class Calculator
     {
-        public static int Additioning(int num, int num1)
+        public static double Additioning(double num, double num1)
         {
             return num + num1;
         }
 
-        public static int Substraction(int num, int num1)
+        public static double Substraction(double num, double num1)
         {
             return num - num1;
         }
